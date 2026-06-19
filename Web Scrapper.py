@@ -1,5 +1,5 @@
 from firecrawl import Firecrawl 
-app = Firecrawl(api_key="fc-0dfdf81098d54524baced761267aa2ca")
+app = Firecrawl(api_key="Your API Key")
 
 def scrape(target_url):
     try:
